@@ -2,7 +2,7 @@
 
 Olá, Bem vindo ao meu projeto Alura Plus.
 
-![imagem] (https://github.com/RaquelVuicik/projeto-alura-plus/blob/master/assets/tela-alura-plus.png)
+![imagem](https://github.com/RaquelVuicik/projeto-alura-plus/blob/master/assets/tela-alura-plus.png)
 
 
 ## Ferramentas utilizadas:
